@@ -6,7 +6,7 @@
 * [Asiakastarina]()
 * [Sidosryhmät ja profiilikuvaukset]()
 * [Sidosryhmäkuva]()
-* [Asiakastpolku]()
+* [Asiakaspolku]()
 * [Yleinen käyttötapaus]()
 * [Yleiset toiminnalliset vaatimukset]()
 * [Yleiset ei-toiminnalliset vaatimukset]()
@@ -259,9 +259,9 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 ![](https://www.lucidchart.com/publicSegments/view/6f727a36-f880-4dca-b5ac-133f6f860697/image.png)
 
 
-## Riskiperustainen esi-testaussuunnitelma
+## Riskiperustainen esitestaussuunnitelma
 
-### Tunnistetut riskit ja testikohtee
+### Tunnistetut riskit ja testikohteet
 
   * Riski -> Testaustarve
   * Vaatimus -> Testaustarve
