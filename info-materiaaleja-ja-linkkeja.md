@@ -1,8 +1,4 @@
-
-
-#Kurssin materiaalit
-
-* [Google Share materiaalit ovat täällä!](https://drive.google.com/drive/folders/0ByWXUybEcTavN1ZiQ0ktRTJLNTA?usp=sharing)
+# Linkkikokoelma
 
 
 
