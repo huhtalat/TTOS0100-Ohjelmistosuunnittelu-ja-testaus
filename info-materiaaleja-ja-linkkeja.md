@@ -19,8 +19,12 @@
 
 ## GitHub käyttö
 
-* https://guides.github.com/activities/hello-world/
+* https://guides.github.com/
 * [Tube: Helloworld github](https://guides.github.com/activities/hello-world/)
+
+## GIT käyttö
+
+* http://rogerdudler.github.io/git-guide/
 
 ## Palvelumuotoilu (Service Design)
 
