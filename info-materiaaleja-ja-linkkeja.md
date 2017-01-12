@@ -198,8 +198,9 @@ Iterative
   * [RUP](http://en.wikipedia.org/wiki/Rational_Unified_Process)
   * [Open Process Framework](http://www.opfro.org/)
    
-Agile 
+Agile/Scrum 
 
+  * http://scrumguides.org/scrum-guide.html#team-sm
   * http://searchsoftwarequality.techtarget.com/definition/user-story
   * http://www.mountaingoatsoftware.com/agile/scrum
   * Scrum http://scrumreferencecard.com/ScrumReferenceCard.pdf 
