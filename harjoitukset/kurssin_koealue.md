@@ -5,7 +5,7 @@ Lista päivittyy kurssin aikana saadun palautteen pohjalta! Kannattaa siis seura
 
 Tilanne 13.1.2017
 
-###Palvelumuotoilu (1)
+###Palvelumuotoilu (Service Desing)
 
 - [] Mitä tarkoittaa palvelumuotoilu? (Service Design)
 - [] Sidosryhmä? (Stake Holder)
@@ -26,6 +26,13 @@ Tilanne 13.1.2017
 * Mitä ovat Ei-toiminnalliset vaatimukset (Non Functional Requirements)
 * Toimija (Actor) ja käyttötapaus (Use Case)
 
+### UML (Universal Modeling Language)
+
+* UML-standardi yleisesti
+* Sekvenssikaavio (Sequence Diagram)
+* Use Case (Use Case Diagram)
+* 
+
 
 ###Prototyyppi (User interface prototyping /mocking)
 
@@ -34,12 +41,6 @@ Tilanne 13.1.2017
 * Käyttöliittymä (User Interface)
 
 
-### UML (Universal Modeling Language)
-
-* UML-standardi yleisesti
-* Sekvenssikaavio (Sequence Diagram)
-* Use Case (Use Case Diagram)
-* 
  
 ### Ohjelmistotestaus
 
