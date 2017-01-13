@@ -3,7 +3,7 @@
 Tässä lista erilaisia käsitteitä ja aiheita, joihin pitää ja kannattaa tutustua ennen koetta!
 Lista päivittyy kurssin aikana saadun palautteen pohjalta! Kannattaa siis seurata aktiivisesti.
 
-Tilanne 22.12.2016
+Tilanne 13.1.2017
 
 ###Palvelumuotoilu (1)
 
@@ -21,10 +21,11 @@ Tilanne 22.12.2016
 
 * Asiakkaan toiveet/tarpeet (Customer Needs)
 * Liiketoiminta tavoitteet (Business Goals)
+* Tuotteen ominaisuus/piirre (Feature)
 * Mitä ovat Toiminnalliset vaatimukset (Functional Requirements)
 * Mitä ovat Ei-toiminnalliset vaatimukset (Non Functional Requirements)
 * Toimija (Actor) ja käyttötapaus (Use Case)
-* Tuotteen ominaisuus/piirre (Feature)
+
 
 ###Prototyyppi (User interface prototyping /mocking)
 
