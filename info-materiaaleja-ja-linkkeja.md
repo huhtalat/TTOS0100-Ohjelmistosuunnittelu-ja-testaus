@@ -38,6 +38,11 @@
 * [Service Design Tools](http://www.servicedesigntools.org/)
 * [Service Design Toolkit](http://www.servicedesigntoolkit.org/)
 * [Nordström innovation labs](https://www.youtube.com/watch?v=szr0ezLyQHY)
+* Asiakas [profiili/persoonat](http://www.servicedesigntools.org/tools/40)
+* [Asiakas/sidosryhmäkartta - Stakeholder map](http://www.stakeholdermap.com/)
+* Palvelun [Tarttumapintakuvaus / Touch point diagram](http://www.servicedesigntools.org/tools/108)
+* Palvelun [Blueprint](http://www.servicedesigntools.org/tools/35)
+
 
 ## Vaatimusten kerääminen ja hallinta
 
