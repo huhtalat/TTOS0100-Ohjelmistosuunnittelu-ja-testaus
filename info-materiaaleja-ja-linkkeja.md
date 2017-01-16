@@ -17,13 +17,14 @@
 
 # Linkkejä liittyen aiheisiin..
 
-## GitHub käyttö
+## GitHub-palvelun käyttö
 
 * https://guides.github.com/
 * [Tube: Helloworld github](https://guides.github.com/activities/hello-world/)
+* https://www.youtube.com/githubguides
 
-## GIT käyttö
 
+## GIT versiohallintatyökalun käyttö
 * http://rogerdudler.github.io/git-guide/
 
 ## Palvelumuotoilu (Service Design)
