@@ -22,10 +22,14 @@
 * https://guides.github.com/
 * [Tube: Helloworld github](https://guides.github.com/activities/hello-world/)
 * https://www.youtube.com/githubguides
+* https://guides.github.com/features/mastering-markdown/
+* http://lifehacker.com/5983680/how-the-heck-do-i-use-github
 
 
 ## GIT versiohallintatyökalun käyttö
 * http://rogerdudler.github.io/git-guide/
+* http://git-scm.com/book/en/v2
+
 
 ## Palvelumuotoilu (Service Design)
 
@@ -101,13 +105,11 @@
 * [ITIL ?](https://fi.wikipedia.org/wiki/ITIL)
 * [Sanasto](https://www.exin.com/assets/exin/frameworks/108/glossaries/finnish_glossary_v1.0_201404.pdf)
 
-# Työpaja 
+## Työpajat 
 
+* [Kanban games](https://connected-knowledge.com/2016/01/27/kanban-games/)
 * [Kanban-pizza-game](http://www.agile42.com/en/training/kanban-pizza-game/)
 
-# Työvälineitä
-
-## GitHub
 
 
 
@@ -129,62 +131,39 @@ Micro Service Architecture | https://www.youtube.com/watch?v=PFQnNFe27kU |
 
 ## Kokonaisarkkitehtuuri
 
-
+* [Archimate](https://en.wikipedia.org/wiki/ArchiMate)
 
 ## Testaus & Muut jännät jutskat!
 
 * [Open Source Security Testing Methodology Manual OSSTMM](http://www.isecom.org/research/)
-*  [Ollin tuumailut](http://ollintuumailut.blogspot.fi/2014/04/ohjelmistotestaus-osa.html)
-*  [Testaus Blogi](http://avustaja.blogspot.fi/ |
-*  [Web Designer Nightmare](http://www.youtube.com/watch?v=CfxTc7_1UVE)
-*  [IteWiki](http://www.itewiki.fi)
-*  [Vitsi](https://www.youtube.com/watch?v=lXNu0VBVCUc]
+* [Ollin tuumailut](http://ollintuumailut.blogspot.fi/2014/04/ohjelmistotestaus-osa.html)
+* [Testaus Blogi](http://avustaja.blogspot.fi/ |
+* [Web Designer Nightmare](http://www.youtube.com/watch?v=CfxTc7_1UVE)
+* [IteWiki](http://www.itewiki.fi)
+* [Vitsi](https://www.youtube.com/watch?v=lXNu0VBVCUc]
 
 ## Projektin hallinta linkkeja ja toimijoita
 
-  * Project Management Institute (PMI): http://www.pmi.org/
-  * International Project Management Association (IPMA): http://www.ipma.ch/
-  * Software Engineering Institute (SEI): http://www.sei.cmu.edu/
-  * Association for Project Management: http://www.apm.org.uk/
-  * IEEE Software Engineering Group: http://www.computer.org/
-  * Suomessa: Projektiyhdistys ry http://www.pry.fi/
-  * Työkaluja: http://www.pm-software-tools.com/
-  * Kurssi: http://www.projectreference.com/
+* Project Management Institute (PMI): http://www.pmi.org/
+* International Project Management Association (IPMA): http://www.ipma.ch/
+* Software Engineering Institute (SEI): http://www.sei.cmu.edu/
+* Association for Project Management: http://www.apm.org.uk/
+* IEEE Software Engineering Group: http://www.computer.org/
+* Suomessa: Projektiyhdistys ry http://www.pry.fi/
+* Työkaluja: http://www.pm-software-tools.com/
+* Kurssi: http://www.projectreference.com/
 
 ## Projektisuunnitelma
 
-  * http://www.tekes.fi/rahoitus/rahoituksen-hakeminen/projektisuunnitelma/
+* http://www.tekes.fi/rahoitus/rahoituksen-hakeminen/projektisuunnitelma/
 
-
-
-
-
-Usability/Käytettävyys
+## Usability/Käytettävyys
   
-  * http://worldusabilitydayjkl.fi/index.en.html
+* http://worldusabilitydayjkl.fi/index.en.html
 
 
-### Esimerkkejä yrityselämästä:
- 
- * https://data.controla.fi/massainfo/
- * http://www.meteoriitti.com/Mita-teemme/Palvelut/Strateginen-suunnittelu/Vaatimusmaarittely/ 
- * http://www.sofokus.com/tekninen-vaatimusmaarittely/
 
-
-# Tiimi ja sen kehittäminen
-
-  * http://esseepankki.tiimiakatemia.fi/tiimit-avain-uuden-luomiseen-7/
-  * https://www.theseus.fi/bitstream/handle/10024/67437/Tapola_Heini.pdf?sequence=1
-
-# Työkalut
-
-## GitHub
-
-  * https://guides.github.com/features/mastering-markdown/
-  * http://lifehacker.com/5983680/how-the-heck-do-i-use-github
-  * http://git-scm.com/book/en/v2
-
-# Mallintaminen & suunnittelu
+## Mallintaminen & suunnittelu
 
 ## UI design tools
   * https://www.ninjamock.com
@@ -194,17 +173,17 @@ Usability/Käytettävyys
 
   * http://en.wikipedia.org/wiki/Domain-specific_modeling
 
-# Prosessit ja toimintatavat
+## Prosessit ja toimintatavat
 
-Water Fall
+## Water Fall
 
 
-Iterative
+## Iterative
 
   * [RUP](http://en.wikipedia.org/wiki/Rational_Unified_Process)
   * [Open Process Framework](http://www.opfro.org/)
    
-Agile/Scrum 
+## Agile/Scrum 
 
   * http://scrumguides.org/scrum-guide.html#team-sm
   * http://searchsoftwarequality.techtarget.com/definition/user-story
@@ -214,16 +193,28 @@ Agile/Scrum
   * [User Storys](http://en.wikipedia.org/wiki/User_story)
   * [Job Storys](http://blog.intercom.io/using-job-stories-design-features-ui-ux/)
 
-LEAN
+## LEAN
 
   * http://en.wikipedia.org/wiki/Lean_manufacturing
   * http://fi.wikipedia.org/wiki/Kanban
   * http://fi.wikipedia.org/wiki/Lean
   * http://www.lean.org/WhatsLean/History.cfm
 
-LEAN UX
+#LEAN UX
 
   * http://www.smashingmagazine.com/2014/01/08/lean-ux-manifesto-principle-driven-design/
 
 ## LEAN Startup
 * [Minimum Viable Product (MVP)](http://en.wikipedia.org/wiki/Minimum_viable_product)
+
+### Vaatimusmäärittely esimerkkejä yrityselämästä:
+ 
+* https://data.controla.fi/massainfo/
+* http://www.meteoriitti.com/Mita-teemme/Palvelut/Strateginen-suunnittelu/Vaatimusmaarittely/ 
+* http://www.sofokus.com/tekninen-vaatimusmaarittely/
+
+# Tiimi ja sen kehittäminen
+
+* http://esseepankki.tiimiakatemia.fi/tiimit-avain-uuden-luomiseen-7/
+* https://www.theseus.fi/bitstream/handle/10024/67437/Tapola_Heini.pdf?sequence=1
+
