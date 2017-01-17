@@ -135,6 +135,9 @@ Micro Service Architecture | https://www.youtube.com/watch?v=PFQnNFe27kU |
 
 ## Testaus & Muut jännät jutskat!
 
+* [BBST Testing Course](http://www.testingeducation.org/BBST/foundations/)
+* Intro: http://www.guru99.com/software-testing-introduction-importance.html
+* [7-periaatetta](http://www.guru99.com/software-testing-seven-principles.html)
 * [Open Source Security Testing Methodology Manual OSSTMM](http://www.isecom.org/research/)
 * [Ollin tuumailut](http://ollintuumailut.blogspot.fi/2014/04/ohjelmistotestaus-osa.html)
 * [Testaus Blogi](http://avustaja.blogspot.fi/ |
