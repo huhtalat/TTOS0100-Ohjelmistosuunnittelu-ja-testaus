@@ -29,6 +29,7 @@
 ## GIT versiohallintatyökalun käyttö
 * http://rogerdudler.github.io/git-guide/
 * http://git-scm.com/book/en/v2
+* http://think-like-a-git.net/sections/about-this-site/what-this-site-will-try-to-teach-you.html
 
 
 ## Palvelumuotoilu (Service Design)
