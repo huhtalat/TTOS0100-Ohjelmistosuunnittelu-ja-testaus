@@ -136,6 +136,7 @@ Micro Service Architecture | https://www.youtube.com/watch?v=PFQnNFe27kU |
 ## Testaus & Muut jännät jutskat!
 
 * [BBST Testing Course](http://www.testingeducation.org/BBST/foundations/)
+* [Guru99 materiaalit](http://www.guru99.com/software-testing-introduction-importance.html)
 * Intro: http://www.guru99.com/software-testing-introduction-importance.html
 * [7-periaatetta](http://www.guru99.com/software-testing-seven-principles.html)
 * [Open Source Security Testing Methodology Manual OSSTMM](http://www.isecom.org/research/)
@@ -147,6 +148,11 @@ Micro Service Architecture | https://www.youtube.com/watch?v=PFQnNFe27kU |
 * [James Bach - Who want's to be a tester!](http://www.youtube.com/watch?v=3FTwaojNkXw) 
 * [James Bach Buccaneer-Tester: Winning your reputation](https://www.youtube.com/watch?v=MKFqwKSon-E)
 * [Buccaneer Tester?](http://www.qasig.org/presentations/buccaneertester.pdf)
+* Testausalan ammattilaisten [Facebook-ryhmä](https://www.facebook.com/groups/1406534256285868/)
+* Esimerkkejä alan yrityksistä Suomessa: [prove](https://prove.fi/), [Quentinell](https://qentinel.com/fi/), [Q-FActory](http://www.q-factory.fi/) 
+* [ISTQB sertifikaatti](http://www.istqb.org/) 
+* [FiSTB](http://www.fistb.fi/fi/etusivu) ja [materiaalia suomeksi](http://www.fistb.fi/fi/tiedostot)
+* [ISTQB-sanasto](http://www.fistb.fi/sites/fistb/files/liitteet/istqb_sanasto_2015-04-30%202.3%20FI-ENG.pdf)
 
 
 ## Projektin hallinta linkkeja ja toimijoita
