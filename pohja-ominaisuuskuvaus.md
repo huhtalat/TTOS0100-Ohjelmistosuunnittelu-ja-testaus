@@ -22,7 +22,7 @@ Täitä käyttötapauksia voidaan tarvittaessa käyttää hyväksyntätesteinä 
 * _Ylläpitäjänä haluan, että tervehdysviesti on vaihdettavissa, koska se virkistää työntekoa!_
 #3
 
-### Käyttöliittymänäkymä/mock
+### Ominaisuuteen liittyvät käyttöliittymänäkymät tai mockup
 
 ![](https://openclipart.org/image/300px/svg_to_png/178764/1370010418.png&disposition=attachment)
 
