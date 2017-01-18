@@ -245,26 +245,46 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 
 
 # Palvelun/ohjelmiston arkkitehtuuri 
- 
-# Totetutukseen ja teknologiaan liityvät dokumentaatiot
+
+### Yleinen sijoittelunäkymä (Deployment diagram )
+
+![](https://openclipart.org/image/800px/svg_to_png/17266/berteh-flow-diagram-symbols.png&disposition=attachment)
 
 
-### Tietokanta kuvaus (Database ER-diagram)
+# Arkkitehtuuriin/teknologiaan liityvät vaatimukset
 
+### Ylläpito (Maintenance)
+
+| Id | Vaatimuksen kuvaus | kategoria | Vastuullinen |
+|:-:|:-:|:-:|:-:|
+| REQ00x | Vaatimus? | Yllläpito | Kuka vastaa | 
+| REQ00x | Vaatimus? | Tekninen | Kuka vastaa | 
+| REQ00x | Vaatimus? | Käytettävyys | Kuka vastaa | 
+| REQ00x | Vaatimus? | Käytettävyys | Kuka vastaa | 
+| REQ00x | Vaatimus? | Käytettävyys | Kuka vastaa | 
+
+### Yleinen tietokantakuvaus (Database ER-diagram)
 
 ER-kaavio
 
 ![](https://openclipart.org/image/800px/svg_to_png/17266/berteh-flow-diagram-symbols.png&disposition=attachment)
 
 
-### Sijoittelunäkymä (Deployment diagram )
-
-![](https://openclipart.org/image/800px/svg_to_png/17266/berteh-flow-diagram-symbols.png&disposition=attachment)
-
-
 # Testauksen vaatimukset (Testing requirements)
 
-Tunnistetut riskit ja testikohteet
+### Testattavuus
+
+| Id | Vaatimuksen kuvaus | kategoria | Vastuullinen |
+|:-:|:-:|:-:|:-:|
+| REQ00x | Vaatimus? | Testattavuus | Kuka vastaa | 
+| REQ00x | Vaatimus? | Testattavuus | Kuka vastaa | 
+| REQ00x | Vaatimus? | Testattavuus | Kuka vastaa | 
+| REQ00x | Vaatimus? | Testattavuus | Kuka vastaa | 
+| REQ00x | Vaatimus? | Testattavuus | Kuka vastaa | 
+
+
+
+# Tunnistetut riskit ja testikohteet
 
   * Riski -> Testaustarve
   * Vaatimus -> Testaustarve
