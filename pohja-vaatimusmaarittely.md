@@ -252,16 +252,15 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 
 ER-kaavio
 
-![](https://openclipart.org/image/2400px/svg_to_png/262539/Slavic-Language-Diagram-With-Drop-Shadow.png)
+![](https://openclipart.org/image/800px/svg_to_png/17266/berteh-flow-diagram-symbols.png&disposition=attachment)
 
 
 ### Sijoittelunäkymä (Deployment diagram )
 
-![](https://openclipart.org/image/2400px/svg_to_png/262539/Slavic-Language-Diagram-With-Drop-Shadow.png)
+![](https://openclipart.org/image/800px/svg_to_png/17266/berteh-flow-diagram-symbols.png&disposition=attachment)
 
 
-# Esi-testisuunnittelu
-
+# Testauksen vaatimukset (Testing requirements)
 
 Tunnistetut riskit ja testikohteet
 
