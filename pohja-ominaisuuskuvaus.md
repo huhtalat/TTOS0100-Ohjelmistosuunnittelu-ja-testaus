@@ -8,7 +8,7 @@
 Sed non nisi id ligula interdum mattis. Fusce vel ullamcorper nunc. Nulla pharetra dui ut enim semper semper. Aenean ut leo tortor. Fusce felis nibh, malesuada vitae nibh at, rhoncus feugiat leo. Nam vehicula vitae ligula vitae condimentum. Ut maximus metus nec lorem ultrices elementum.
 
 
-### Käyttötapaukset (Use Cases)
+### Tärkeimmät ominaisuusten liittyvät käyttötapaukset (Use Cases)
 
 Täitä käyttötapauksia voidaan tarvittaessa käyttää hyväksyntätesteinä tai pohjana niille.
 
@@ -16,7 +16,7 @@ Täitä käyttötapauksia voidaan tarvittaessa käyttää hyväksyntätesteinä 
 * [Use Case 2](https://github.com/JAMK-IT/TT0S0100-software-desing-and-testing/blob/master/pohja-kayttotapauskuvaus.md)
 
 
-### Alustavat käyttäjätarinat (User Storys)
+### Mahdolliset käyttäjätarinat (User Storys)
 
 * _Käyttäjänä haluan, että lorem ipsum on näkyvillä koko käytön ajan, koska se tuo minulle turvallisen olon_
 * _Ylläpitäjänä haluan, että tervehdysviesti on vaihdettavissa, koska se virkistää työntekoa!_
@@ -42,7 +42,7 @@ Täitä käyttötapauksia voidaan tarvittaessa käyttää hyväksyntätesteinä 
 * Tervehdysviestin muodon on noudatettava standardia ZZZ123.1
 
 
-### Testauksessa huomioitavaa:
+### Ominaisuuuteen liittyävät testitapaukset
 
 | Testi  | Testin lähde  | Kuka vastaa  |
 |:-: | :-:|:-:|
@@ -54,7 +54,7 @@ Täitä käyttötapauksia voidaan tarvittaessa käyttää hyväksyntätesteinä 
 | [Testitapaus 6](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-testitapaus.md)  |  |  |
 
 
-### Status/Aikataulu/Roadmap
+###  Aikataulu
 
 | Status | |
 |:----:|:----:|
