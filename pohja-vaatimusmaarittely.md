@@ -242,26 +242,28 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 | 5.5.201x [Ominaisuus 4](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-ominaisuuskuvaus.md) | | |
 
 
-## Palvelun/ohjelmiston arkkitehtuuri
-
-  * Tämä osio voidaan sisällyttää osaksi teknistä suunnittelua. 
-  * Vaatimusmäärittelyssä voi kuitenkin olla  hyvä tarvittaessa kuvata yleistä totetutusta ja siihen liittyviä ongelmakohtia
-  
-
-![](https://camo.githubusercontent.com/5c169deb4debb278bb6219208f577843075ddab3/68747470733a2f2f7777772e64726f70626f782e636f6d2f732f6179707170797376726831316133312f636f6e747269626f6172642d6172636869746563747572652e706e673f646c3d31)
-
-   * [Esimerkki elävästä elämästä](https://confluence.csc.fi/display/OPHPALV/Koodistopalvelun+tekninen+dokumentaatio)
+# Palvelun/ohjelmiston arkkitehtuuri 
+ 
+# Totetutukseen ja teknologiaan liityvät dokumentaatiot
 
 
-### Sijoittelunäkymä (Deployment diagram
+### Tietokanta kuvaus (Database ER-diagram)
 
 
-![](https://www.lucidchart.com/publicSegments/view/6f727a36-f880-4dca-b5ac-133f6f860697/image.png)
+ER-kaavio
+
+![](https://openclipart.org/image/2400px/svg_to_png/262539/Slavic-Language-Diagram-With-Drop-Shadow.png)
 
 
-## Riskiperustainen esitestaussuunnitelma
+### Sijoittelunäkymä (Deployment diagram )
 
-### Tunnistetut riskit ja testikohteet
+![](https://openclipart.org/image/2400px/svg_to_png/262539/Slavic-Language-Diagram-With-Drop-Shadow.png)
+
+
+# Esi-testisuunnittelu
+
+
+Tunnistetut riskit ja testikohteet
 
   * Riski -> Testaustarve
   * Vaatimus -> Testaustarve
