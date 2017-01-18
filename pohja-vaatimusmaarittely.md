@@ -13,6 +13,8 @@
 * [Palvelu MockUp]()
 * [Tärkeimmät ominaisuudet]()
 * [Julkaisun suunnitelma]()
+* [Palvelun/ohjelmiston arkkitehtuuri]()
+* [Testaus ja laadunvarmistus]()
 * [Lähteet]()
 
 ## Johdatus
