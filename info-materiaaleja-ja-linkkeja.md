@@ -34,7 +34,7 @@
 
 ## Palvelumuotoilu (Service Design)
 
-* [Forge Service Design Material](https://github.com/forgeservicelab/forge-sdt)
+* [Forge Service Design-material](https://github.com/forgeservicelab/forge-sdt)
 * [Palvelumuotoilun työkalupakki](http://sdt.fi)
 * [Palvelumuotoilua suomeksi](http://palvelukehitys.wikispaces.com/)
 * [Journey Map](http://www.heartofthecustomer.com/customer-experience-journey-map-the-top-10-requirements/)
