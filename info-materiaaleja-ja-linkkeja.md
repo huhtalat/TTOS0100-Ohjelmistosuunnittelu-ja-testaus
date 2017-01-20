@@ -34,6 +34,7 @@
 
 ## Palvelumuotoilu (Service Design)
 
+* [Palvelumuotoilun työkalupakki](http://sdt.fi/palvelumuotoilu.html)
 * [Forge Service Design-material](https://github.com/forgeservicelab/forge-sdt)
 * [Palvelumuotoilun työkalupakki](http://sdt.fi)
 * [Palvelumuotoilua suomeksi](http://palvelukehitys.wikispaces.com/)
