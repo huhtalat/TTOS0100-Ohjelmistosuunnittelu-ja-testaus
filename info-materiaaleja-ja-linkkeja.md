@@ -131,6 +131,13 @@ Tulossa...
 
 Micro Service Architecture | https://www.youtube.com/watch?v=PFQnNFe27kU |
 
+## IPR Oikeudet, vaitiolosopimukset etc 
+
+http://www.nettilaki.com/a/ty%C3%B6ntekij%C3%A4n-salassapitovelvollisuus
+http://www.keksintosaatio.fi/fi/salassapitosopimus
+http://www.erto.fi/tyosuhdeopas/tyosopimus/172-kilpailukieltosopimus
+http://www.erto.fi/tyosuhdeopas/tyosopimus/153-liike-ja-ammattisalaisuudet
+
 ## Kokonaisarkkitehtuuri
 
 * [Archimate](https://en.wikipedia.org/wiki/ArchiMate)
