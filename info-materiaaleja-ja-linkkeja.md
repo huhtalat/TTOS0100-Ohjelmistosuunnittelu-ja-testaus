@@ -50,6 +50,7 @@
 * Palvelun [Tarttumapintakuvaus / Touch point diagram](http://www.servicedesigntools.org/tools/108)
 * Palvelun [Blueprint](http://www.servicedesigntools.org/tools/35)
 
+Esimerkkejä Google hausta "Google:how to draw customer journey map", "Google: how to make use case diagram"
 
 ## Vaatimusten kerääminen ja hallinta
 
